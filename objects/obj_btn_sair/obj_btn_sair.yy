@@ -11,8 +11,8 @@
   "name":"obj_btn_sair",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Menu_Principal",
+    "path":"folders/Objects/UI/Menu_Principal.yy",
   },
   "parentObjectId":null,
   "persistent":false,

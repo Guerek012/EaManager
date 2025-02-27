@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_menu",
+  "%Name":"obj_equipe",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_menu",
+  "name":"obj_equipe",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu_Principal",
-    "path":"folders/Objects/UI/Menu_Principal.yy",
+    "name":"QG",
+    "path":"folders/Objects/UI/QG.yy",
   },
   "parentObjectId":null,
   "persistent":false,
